@@ -1,0 +1,14 @@
+layout_spectrum: 0.4086021
+color:
+  saturation: 0.311828
+  brandStrength: 0.5251339
+  lightness: 0.344086
+  rhythmicContrast: 0.7169228
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.5089605
+name: Dark mountain
